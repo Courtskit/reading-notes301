@@ -1,1 +1,32 @@
-# reading-notes301
+# Code 201 Reading Notes
+
+### About Me
+
+Hey! My name is Courtney and I am a student at Code Fellows, currently enrolled in the Code 301 course. This is my personal page to document my notes whiles learning how to code.
+
+
+
+## Table of Contents
+
+1. [](./notes/class-01.md)
+2. [](./notes/class-02.md)
+3. [](./notes/class-03.md)
+4. [](./notes/class-04.md)
+5. [](./notes/class-05.md)
+6. [](./notes/class-06.md)
+7. [](./notes/class-07.md)
+8. [](./notes/class-09.md)
+9. [](./notes/class-08.md)
+10. [](./notes/class-10.md)
+11. [](./notes/class-11.md)
+12. [](./notes/class-12.md)
+13. [](./notes/class-13.md)
+14. [](./notes/class-14.md)
+15. [](./notes/class-15.md)
+
+
+---
+### My Profiles
+- [GitHub Profile](https://github.com/Courtskit)
+
+- [LinkedIn Profile](https://www.linkedin.com/in/courtneycodes/)
