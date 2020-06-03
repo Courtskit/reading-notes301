@@ -9,8 +9,8 @@ Hey! My name is Courtney and I am a student at Code Fellows, currently enrolled 
 ## Table of Contents
 
 1. [Responsive Web Design](./notes/class-01.md)
-2. [](./notes/class-02.md)
-3. [](./notes/class-03.md)
+2. [JQuery, Events, and The DOM](./notes/class-02.md)
+3. [Flexbox and Templating](./notes/class-03.md)
 4. [](./notes/class-04.md)
 5. [](./notes/class-05.md)
 6. [](./notes/class-06.md)

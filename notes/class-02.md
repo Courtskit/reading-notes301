@@ -1,4 +1,4 @@
-# jQuery, Events, and The DOM
+# JQuery, Events, and The DOM
 
 ## JQUERY
 - a file that can be included in your web pages
