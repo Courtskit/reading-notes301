@@ -14,7 +14,7 @@ Hey! My name is Courtney and I am a student at Code Fellows, currently enrolled 
 4. [Regular Expressions, Grid, and Regex](./notes/class-04.md)
 5. [Heroku Deployment](./notes/class-05.md)
 6. [Node.js](./notes/class-06.md)
-7. [](./notes/class-07.md)
+7. [APIs](./notes/class-07.md)
 8. [](./notes/class-09.md)
 9. [](./notes/class-08.md)
 10. [](./notes/class-10.md)
