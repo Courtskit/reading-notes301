@@ -21,7 +21,7 @@ Hey! My name is Courtney and I am a student at Code Fellows, currently enrolled 
 11. [EJS](./notes/class-11.md)
 12. [](./notes/class-12.md)
 13. [](./notes/class-13.md)
-14. [](./notes/class-14.md)
+14. [DATABASE NORMALIZATION](./notes/class-14.md)
 15. [](./notes/class-15.md)
 
 
